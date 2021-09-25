@@ -1,5 +1,5 @@
 # Estrogonofe de frango:chicken:
-
+![strogonoff-frango-1](https://user-images.githubusercontent.com/87828537/134767826-b7ad5324-edb1-4869-a4c1-199e73552fdb.png)
 ## Ingredientes
 
 - 600 g de peito ou filé de frango cortado em tiras
